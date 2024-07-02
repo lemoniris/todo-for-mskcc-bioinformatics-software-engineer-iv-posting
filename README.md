@@ -11,3 +11,5 @@ https://careers.mskcc.org/vacancies/2024-77890-bioinformatics-software-engineer-
 - [ ] re-email people next week
 - [ ] get an interview!! (~prolly this week or~ next week or week after!!)
 - [ ] put some more bioinfo python code on github
+
+work in person??!! what ... i wanted to be remote lol
