@@ -13,3 +13,5 @@ https://careers.mskcc.org/vacancies/2024-77890-bioinformatics-software-engineer-
 - [ ] put some more bioinfo python code on github
 
 work in person??!! what ... i wanted to be remote lol
+
+commuting = 45 mins in the bus + 20 mins port auth -> 60th st, so i have to leave at 7 am every morning which is fineeee, i can do it 3x a week but not 5x a week but lets see
