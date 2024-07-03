@@ -17,3 +17,8 @@ work in person??!! what ... i wanted to be remote lol
 commuting = 45 mins in the bus + 20 mins port auth -> 60th st, so i have to leave at 7 am every morning which is fineeee, i can do it 3x a week but not 5x a week but lets see
 
 "i think you can do it" - you, to me, in 2017
+
+midtown east apartments (bc ... maybe ... id rather spend rent money on shoes and trips to dubai though but i did enjoy my home office setup in bethesda ... so maybeee)
+
+* [stonehenge 51](https://www.apartments.com/stonehenge-51-new-york-ny/63rrn5r/)
+
