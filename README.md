@@ -18,7 +18,7 @@ commuting = 45 mins in the bus + 20 mins port auth -> 60th st, so i have to leav
 
 "i think you can do it" - you, to me, in 2017
 
-midtown east apartments (bc ... maybe ... id rather spend rent money on shoes and trips to dubai though but i did enjoy my home office setup in bethesda ... so maybeee)
+midtown east apartments (bc ... maybe ... id rather spend rent money on shoes and trips to dubai though but i did enjoy my [home office setup in bethesda](https://www.herlog.com/content/images/size/w1600/2023/12/bethesda-2019.png) ... so maybeee) (it has to be within walking distance to the office building bc if i would have to take the subway, then i can just commute from home)
 
-* [stonehenge 51](https://www.apartments.com/stonehenge-51-new-york-ny/63rrn5r/)
-
+* [~stonehenge 51~](https://www.apartments.com/stonehenge-51-new-york-ny/63rrn5r/)
+* [stonehenge 61](https://www.stonehengenyc.com/buildings/stonehenge-61)
