@@ -8,9 +8,10 @@ https://careers.mskcc.org/vacancies/2024-77890-bioinformatics-software-engineer-
 - [x] ~fix cover letter (working on this nowww)~
 - [x] ~actually apply (monday)~
 - [x] ~email some people (later todayyy)~ emailed some people at mskcc but their vacation reply came on, so i guess they're just out this week, i will have to re-email them next week
-- [ ] re-email people next week
-- [ ] get an interview!! (~prolly this week or~ next week or week after!!)
-- [ ] put some more bioinfo python code on github
+- [x] re-email people next week
+- [x] get an interview!! (~prolly this week or~ next week or week after!!)
+- [x] put some more bioinfo python code on github
+- [x] schedule interviewwww
 
 work in person??!! what ... i wanted to be remote lol
 
