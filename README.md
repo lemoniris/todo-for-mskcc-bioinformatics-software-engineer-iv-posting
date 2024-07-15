@@ -29,3 +29,5 @@ midtown east apartments (bc ... maybe ... id rather spend rent money on shoes an
 * [stonehenge 61](https://www.stonehengenyc.com/buildings/stonehenge-61)
 
 https://github.com/shahcompbio theyre using mostly python thats greatt
+
+oo my zoom interview just got rescheduled to later in the week, now i have the whole week to think about it lol greattt
