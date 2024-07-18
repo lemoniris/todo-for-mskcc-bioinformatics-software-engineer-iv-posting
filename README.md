@@ -31,3 +31,5 @@ midtown east apartments (bc ... maybe ... id rather spend rent money on shoes an
 https://github.com/shahcompbio theyre using mostly python thats greatt
 
 oo my zoom interview just got rescheduled to later in the week, now i have the whole week to think about it lol greattt
+
+interesting, this came out of mskcc's comp oncology team https://www.ycombinator.com/companies/isabl
