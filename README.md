@@ -33,3 +33,5 @@ https://github.com/shahcompbio theyre using mostly python thats greatt
 oo my zoom interview just got rescheduled to later in the week, now i have the whole week to think about it lol greattt
 
 interesting, this came out of mskcc's comp oncology team https://www.ycombinator.com/companies/isabl , reminding myself to read the paper too https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03879-7
+
+zoom interview with mskcc postdoc went well, lots of behavioral google type questions, when i interviewed at princeton univ couple of years ago for a research software engineer position in bioinfo they asked similar kinds of questions ... but its 5x a week in person for the first 6 months which is toughhh but the next interview will be with the team for 1.5 hrs hope i get it!!
