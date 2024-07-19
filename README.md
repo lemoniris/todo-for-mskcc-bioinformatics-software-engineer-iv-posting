@@ -32,4 +32,4 @@ https://github.com/shahcompbio theyre using mostly python thats greatt
 
 oo my zoom interview just got rescheduled to later in the week, now i have the whole week to think about it lol greattt
 
-interesting, this came out of mskcc's comp oncology team https://www.ycombinator.com/companies/isabl
+interesting, this came out of mskcc's comp oncology team https://www.ycombinator.com/companies/isabl , reminding myself to read the paper too https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03879-7
