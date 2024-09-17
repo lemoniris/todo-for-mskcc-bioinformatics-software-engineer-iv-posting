@@ -41,3 +41,5 @@ zoom interview with mskcc postdoc went well, lots of behavioral google type ques
 i asked about the other comp bio position they have: "Yes, but for the compbio position we are looking for someone with research experience in cancer genomics as measured by publications.  I did consider you for this position but there are other candidates who are a better match particularly wrt cancer genomics experience." okayyyy
 
 they have a bioinformatics software engineer iii position now https://careers.mskcc.org/vacancies/2024-77890-bioinformatics-software-engineer-iii/ i think its the same group, i emailed them and asked them to consider me for this position ... wow that would be great
+
+i reached out to some PIs in the computational oncology group bc im applying to the mskcc cancer engineering phd program, i mentioned i interviewed for this bioinformatics software engineer iv position ahhh we'll see what happens
